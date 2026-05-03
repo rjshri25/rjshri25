@@ -12,8 +12,6 @@ Hi, I'm Rajashri Mali 👋
 ✨ I believe in learning by building and solving real problems  
 
 📫 Open to collaboration and new opportunities
-# 💫 About Me:
-Hi, I'm Rajashri Mali 👋  <br>🎓 B.Tech Computer Science student  <br><br>💻 I build and explore full-stack web applications  <br>⚙️ Working with MERN stack and strengthening DSA skills  <br><br>🚀 Currently focused on:<br>- Developing impactful projects  <br>- Learning scalable backend systems  <br><br>✨ I believe in learning by building and solving real problems  <br><br>📫 Open to collaboration and new opportunities
 
 
 ## 🌐 Socials:
