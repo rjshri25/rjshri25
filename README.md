@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Rajashri Mali 👋  
 
-<!--
-**rjshri25/rjshri25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science student  
 
-Here are some ideas to get you started:
+💻 I build and explore full-stack web applications  
+⚙️ Working with MERN stack and strengthening DSA skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently focused on:
+- Developing impactful projects  
+- Learning scalable backend systems  
+
+✨ I believe in learning by building and solving real problems  
+
+📫 Open to collaboration and new opportunities
