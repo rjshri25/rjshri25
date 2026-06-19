@@ -8,6 +8,7 @@ Hi, I'm Rajashri Mali 👋
 🚀 Currently focused on:
 - Developing  projects  
 - Learning scalable backend systems
+-Global level certifications
 
 🤖 Certified in Generative AI Foundation Associate  
 🧠 Interested in AI-powered applications and intelligent systems  
