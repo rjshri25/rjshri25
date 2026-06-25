@@ -8,11 +8,12 @@ Hi, I'm Rajashri Mali 👋
 🚀 Currently focused on:
 - Developing  projects  
 - Learning scalable backend systems
--Global level certifications
 
-🤖 Certified in Generative AI Foundation Associate  
-🧠 Interested in AI-powered applications and intelligent systems  
+🏆 Certifications
 
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Generative AI Foundation Associate
+  
 ✨ I believe in learning by building and solving real problems  
 
 📫 Open to collaboration and new opportunities
