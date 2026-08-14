@@ -12,6 +12,8 @@ Hi, I'm Rajashri Mali 👋
 🏆 Certifications
 
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified Azure Fundamentals(AZ-900)
+- Microsoft Certified SQL AI Developer
 - Generative AI Foundation Associate
   
 ✨ I believe in learning by building and solving real problems  
